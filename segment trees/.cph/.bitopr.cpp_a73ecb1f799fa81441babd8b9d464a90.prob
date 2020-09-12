@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: bitopr","srcPath":"c:\\Users\\Devansh\\Desktop\\documents\\New folder\\segment trees\\bitopr.cpp","tests":[{"id":1598878000603,"input":"2 4\n1 6 3 5\n1 4\n3 4\n1 2\n1 2\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Devansh\\Desktop\\documents\\New folder\\segment trees\\bitopr.cpp"}

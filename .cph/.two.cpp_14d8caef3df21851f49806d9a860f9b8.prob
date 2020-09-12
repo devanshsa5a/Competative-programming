@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: two","srcPath":"c:\\Users\\Devansh\\Desktop\\documents\\New folder\\two.cpp","tests":[{"id":1599234734969,"input":"4 11\n802\n743\n457\n539\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Devansh\\Desktop\\documents\\New folder\\two.cpp"}

@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: nwe","srcPath":"c:\\Users\\Devansh\\Desktop\\documents\\New folder\\nwe.cpp","tests":[{"id":1598371457621,"input":"4\n7\n1 1 0 0 0 1 1\n8\n1 0 1 1 1 0 0 1\n4\n1 1 0 1\n4\n1 1 1 1","output":""}],"timeLimit":3000,"url":"c:\\Users\\Devansh\\Desktop\\documents\\New folder\\nwe.cpp"}
